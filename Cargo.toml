@@ -1,0 +1,18 @@
+[package]
+name = "playpen_rust"
+version = "0.0.1"
+authors = ["Dwight Browne <dwight@dwightjbrowne.com>"]
+edition = "2021"
+description = "Miscellaneous Rust code snippits"
+homepage = "https://github.com/dbrowne/playpen_rust"
+repository = "https://github.com/dbrowne/playpen_rust"
+license = "MIT"
+keywords = ["examples"]
+categories = ["general programming"]
+readme="README.md"
+exclude = [
+    ".github/*",
+    "images/*",
+]
+
+[dependencies]
